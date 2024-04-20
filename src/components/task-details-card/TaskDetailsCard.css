@@ -1,0 +1,19 @@
+.task-details-card--container {
+  border: 3px solid rgb(201, 119, 19);
+  padding-inline-start: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  width: 70%;
+  font-weight: 600;
+}
+
+.task-details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.task-details > button {
+  cursor: pointer;
+  width: fit-content;
+}

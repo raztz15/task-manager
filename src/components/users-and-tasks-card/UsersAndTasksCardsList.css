@@ -1,0 +1,4 @@
+.users-and-tasks-cards-list--container {
+  display: flex;
+  flex-direction: column;
+}

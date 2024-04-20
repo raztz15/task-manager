@@ -1,0 +1,12 @@
+.user-and-tasks-card-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  border: 3px solid rgb(201, 119, 19);
+  border-radius: 10px;
+  padding: 10px 10px 40px 10px;
+}
+
+.users-task-button > button {
+  cursor: pointer;
+}
